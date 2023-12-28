@@ -12,7 +12,6 @@ public class Island {
     }
 
     public void start()  {
-        worldConfig.
 
     }
 }

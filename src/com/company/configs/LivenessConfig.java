@@ -12,7 +12,6 @@ public class LivenessConfig {
     Integer speed;
     BigDecimal saturation;
     Integer count;
-//
     public void setWeight(BigDecimal weight) {
         this.weight = weight;
     }
